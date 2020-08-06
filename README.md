@@ -8,3 +8,10 @@ requests
 pyttsx3
 speech recoginition 
 hashlib 
+
+
+if pyaudio is not installing for some
+pip install pipwin
+pipwin install pyaudio
+run this
+
